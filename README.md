@@ -1,2 +1,3 @@
-# purescript-eventstore
-PureScript client for EventStore HTTP API
+# EventStore
+
+PureScript client for the EventStore HTTP API.

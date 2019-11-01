@@ -1,0 +1,13 @@
+{
+  "name": "purescript-eventstore",
+  "version": "0.0.1",
+  "description": "Client for EventStore HTTP API",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "uuid-validate": "^0.0.3",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
